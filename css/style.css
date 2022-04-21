@@ -1,14 +1,17 @@
+/* Reset Browser */
 *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
+/* Intestazione css */
 header{
     background-color: white;
+    margin-bottom: 45px;
 
 
 }
-
+/* corpo css */
 body {
     background-color:lightgray
 }
@@ -26,13 +29,69 @@ body {
 }
 
 .container-1{
-    width: 1300px;
-    height: 750px;
+    width: 90%;
+    height: 860px;
     background-color: white;
     margin: 0 auto;
-    bottom: 60px;
+
     
+        
+}
+.button-1{
+height: 30px;
+background-color:cornflowerblue;
+border-radius: 5px;
+color: white;
+border-style: solid;
 
 
+
+
+}
+.button-2{
+    height: 30px;
+    background-color:white;
+    color: lightgray;
+    border-radius: 5px;
+   
+    
     
 }
+.list{
+    width: 200px;
+    height: 300px;
+    font-size: large;
+    margin-right: 60px;
+    padding: 45px;
+   
+}
+
+h3 {
+    font-family: 'Ubuntu', sans-serif;
+}
+.buttons{
+    padding: 45px;
+    border-bottom: 1px solid lightgray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
