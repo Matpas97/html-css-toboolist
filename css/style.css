@@ -3,9 +3,36 @@
     margin: 0;
     box-sizing: border-box;
 }
+header{
+    background-color: white;
 
-.css{
-    background-color: blue;
-    width: 300px;
-    height: 200px;
+
+}
+
+body {
+    background-color:lightgray
+}
+
+.img-logo{
+    margin: 20px;
+    margin-bottom: 5px;
+    vertical-align: middle;
+}
+
+.text-toboolist{
+    font-size: 50px;
+    font-family: 'Ubuntu', sans-serif;
+    vertical-align: middle;
+}
+
+.container-1{
+    width: 1300px;
+    height: 750px;
+    background-color: white;
+    margin: 0 auto;
+    bottom: 60px;
+    
+
+
+    
 }
